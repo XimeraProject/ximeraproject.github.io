@@ -1,0 +1,31 @@
+main:
+  - title: "Students"
+    url: /students/
+  - title: "Counselors"
+    url: /counselors/
+  - title: "Alumni"
+    url: /alumni/
+    
+menu:
+  - title: Overview
+    url: /
+    children:
+      - title: "Manifesto"
+        url: manifesto
+      - title: "Board"
+        url: board	
+    
+  - title: For Students
+    url: /students/
+
+  - title: For Instructors
+    url: /instructors/  
+
+  - title: For Authors
+    url: /authors/      
+
+  - title: Giving
+    url: /giving/
+
+  - title: 
+    url: /giving/      
