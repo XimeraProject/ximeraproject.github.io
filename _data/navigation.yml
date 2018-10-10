@@ -1,10 +1,4 @@
 main:
-  - title: "Students"
-    url: /students/
-  - title: "Counselors"
-    url: /counselors/
-  - title: "Alumni"
-    url: /alumni/
     
 menu:
   - title: Overview
@@ -27,5 +21,3 @@ menu:
   - title: Giving
     url: /giving/
 
-  - title: 
-    url: /giving/      
