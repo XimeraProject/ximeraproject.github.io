@@ -11,10 +11,10 @@ sidebar:
 
 There are courses being built using Ximera all the time. 
 
-[[Calculus 1][https://ximera.osu.edu/mooculus/calculus1/logos/calculus1Logo/logo.png]](https://ximera.osu.edu/mooculus/calculus1)
+[![Calculus 1](https://ximera.osu.edu/mooculus/logos/calculus1Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus1)
 
 
-[Calculus 2](https://ximera.osu.edu/mooculus/calculus2)
+[![Calculus 2](https://ximera.osu.edu/mooculus/logos/calculus2Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus2)
 
 
-[Calculus 3](https://ximera.osu.edu/mooculus/calculus3)
+[![Calculus 3](https://ximera.osu.edu/mooculus/logos/calculus3Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus3)
