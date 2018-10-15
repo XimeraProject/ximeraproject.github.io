@@ -8,7 +8,7 @@ password: ''
 sidebar:
   nav: "menu"
 ---
-![The Ximera Foundation][images/ximeraFoundation.png]
+![The Ximera Foundation][./images/ximeraFoundation.png]
 
 
 The nonprofit Ximera Foundation provides the technology and community
