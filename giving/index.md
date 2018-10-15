@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Students
+title: Support
 type: page
 parent_id: '0'
 published: true
