@@ -1,0 +1,16 @@
+\documentclass{standalone}
+
+\usepackage{tikz}
+\usepackage{standalone}
+\renewcommand*\sfdefault{lmssq}
+\usepackage{graphicx}
+\begin{document}
+
+\begin{tikzpicture}[x=1in,y=1in] 
+  \begin{scope}
+    \node at (0,0) {\resizebox{2.6in}{!}{\input{tikzLogo.tex}}};
+    \node at (0,-.4) {\resizebox{2.6in}{!}{\textsf{\reflectbox{F}OUNDATION}}};
+  \end{scope}
+\end{tikzpicture}
+
+\end{document}
