@@ -16,7 +16,10 @@ menu:
     url: /instructors/  
 
   - title: For Authors
-    url: /authors/      
+    url: /authors/
+
+  - title: Workshops
+    url: /workshops/      
 
   - title: Giving
     url: /giving/
