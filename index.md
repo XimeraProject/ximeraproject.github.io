@@ -8,6 +8,8 @@ password: ''
 sidebar:
   nav: "menu"
 ---
+![The Ximera Foundation][images/ximeraFoundation.png]
+
 
 The nonprofit Ximera Foundation provides the technology and community
 support for free and open mathematics education materials.  Built with
