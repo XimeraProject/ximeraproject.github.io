@@ -13,7 +13,13 @@ sidebar:
 ## Ximera Workshop 6
 
 
+The Ximera Workshop 6 will be held fall of 2018 in Gainesville Florida. Registration can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSe2ALks6GhId-oC85H6_eeMDiIhr01KnEA7q1zkyUkpV4li3g/viewform).
+
+
 ## Ximera Workshop 5
+
+The Ximera Workshop 5 was held summer of 2018 in Columbus Ohio.  Major
+accomplishments included: Major rewrites of Xake, major rewrite of Ximera LaTeX, documentation for LTI support.
 
 
 
