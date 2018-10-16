@@ -1,15 +1,18 @@
 ---
-layout: single
-title: Mathematics education is a public good and must remain both open and free.
+title: "Mathematics education is a public good and must remain both open and free."
+layout: splash
 type: page
 parent_id: '0'
 published: true
 password: ''
-sidebar:
-  nav: "menu"
+header:
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
+  image: images/ximeraFoundationHeader.png
+  #overlay_image: 
+  caption: "Photo credit: [**Sailko**](https://commons.wikimedia.org/wiki/File:Chimera_d%27arezzo,_fi,_04.JPG)"
+excerpt: "Mathematics education is a public good and must remain both open and free."
 ---
-![The Ximera Foundation](/images/ximeraFoundation.png?raw=true)
-
 
 The nonprofit Ximera Foundation provides the technology and community
 support for free and open mathematics education materials.  Built with

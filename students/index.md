@@ -5,8 +5,8 @@ type: page
 parent_id: '0'
 published: true
 password: ''
-sidebar:
-  nav: "menu"
+#sidebar:
+#  nav: "menu"
 ---
 
 Ximera provides free interactive textbooks. Students of all kinds can
