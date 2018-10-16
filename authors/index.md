@@ -9,7 +9,8 @@ password: ''
 #  nav: "menu"
 ---
 
-
+Ximera provides the tools to transform LateX source into online
+interactive textbooks.
 
 
 

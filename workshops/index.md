@@ -9,6 +9,11 @@ password: ''
 #  nav: "menu"
 ---
 
+Ximera workshops are true **working** workshops where people come
+together to create something new. At all the workshops, we have both
+novices and experts, working together.
+
+
 
 ## Ximera Workshop 6
 
