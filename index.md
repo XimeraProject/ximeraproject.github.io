@@ -14,7 +14,7 @@ header:
 excerpt: "Mathematics education is a public good and must remain both open and free."
 ---
 
-The nonprofit Ximera Foundation provides the technology and community
+The nonprofit Ximera Foundation ({{site.data.xf}}) provides the technology and community
 support for free and open mathematics education materials.  Built with
 the support of instructors and faculty from multiple institutions, the
 Foundation supports open educational resources (OER), curates existing
