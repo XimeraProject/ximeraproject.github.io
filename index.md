@@ -7,8 +7,9 @@ published: true
 password: ''
 header:
   #overlay_color: "#000"
-  #overlay_filter: "0.5"
-  image: images/ximeraFoundationHeader.svg
+  overlay_filter: 0.2
+  overlay_image: images/chimera.png
+  image_title: images/ximeraFoundation.svg
   #overlay_image: 
   caption: "Photo credit: [**Sailko**](https://commons.wikimedia.org/wiki/File:Chimera_d%27arezzo,_fi,_04.JPG)"
 excerpt: "Mathematics education is a public good and must remain both open and free."
