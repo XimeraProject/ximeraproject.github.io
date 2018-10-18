@@ -13,6 +13,38 @@ header:
   #overlay_image: 
   caption: "Photo credit: [**Sailko**](https://commons.wikimedia.org/wiki/File:Chimera_d%27arezzo,_fi,_04.JPG)"
 excerpt: "Mathematics education is a public good and must remain both open and free."
+gallery:
+  - url: /images/octocat.svg
+    image_path: /images/octocat.svg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+    caption: "HELLO"
+  - url: /images/octocat.svg
+    image_path: /images/octocat.svg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /images/octocat.svg
+    image_path: /images/octocat.svg  
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+github:
+  - image_path: /images/octocat.svg
+    alt: "GitHub Octocat"
+    title: "Git"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+latex:
+  - image_path: /images/ctanlion.svg
+    alt: "CTAN Lion"
+    title: '<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>'
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 The nonprofit {{site.data.foundation}} provides the technology and community
@@ -21,3 +53,7 @@ the support of instructors and faculty from multiple institutions, the
 Foundation supports open educational resources (OER), curates existing
 resources, and builds the technology that enables instructors to take
 control of assessment.
+
+{% include feature_row id="latex" type="left" %}
+
+{% include feature_row id="github" type="right" %}
