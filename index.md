@@ -15,18 +15,18 @@ github:
   - image_path: /images/octocat.svg
     alt: "GitHub Octocat"
     title: "Git"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "All content is hosted on GitHub; it is truly open and free."
+    url: "https://github.com/mooculus"
+    btn_label: "See the source"
     btn_class: "btn--primary"
     
 latex:
   - image_path: /images/ctanlion.svg
     alt: "CTAN Lion"
     title: '<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>'
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "Create content in LaTeX. Publish your work as a traditional PDF or as an online interactive document."
+    url: "https://ximera.osu.edu/mooculus/calculus3/interpretingTheGradient/digInGradient"
+    btn_label: "See an example"
     btn_class: "btn--primary"
 ---
 
