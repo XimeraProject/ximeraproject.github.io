@@ -24,7 +24,7 @@ latex:
   - image_path: /images/ctanlion.svg
     alt: "CTAN Lion"
     title: '<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>'
-    excerpt: "Create content in <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>. Publish your work as a traditional PDF or as an online interactive document."
+    excerpt: "Create content in '<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>'. Publish your work as a traditional PDF or as an online interactive document."
     url: "https://ximera.osu.edu/mooculus/calculus3/interpretingTheGradient/digInGradient"
     btn_label: "See an example"
     btn_class: "btn--primary"
