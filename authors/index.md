@@ -9,7 +9,7 @@ password: ''
 #  nav: "menu"
 ---
 
-Ximera provides the tools to transform {{ site.data.latex }} source into online
+Ximera provides the tools to transform {{site.data.latex}} source into online
 interactive textbooks.
 
 
