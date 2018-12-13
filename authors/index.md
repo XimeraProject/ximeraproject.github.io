@@ -20,5 +20,7 @@ interactive textbooks.
 Click [here for a Ximera activity](https://ximera.osu.edu/introduction/gettingStarted) that will help you get started with Ximera!
 
 
+
 Click [here for a Ximera activity](https://ximera.osu.edu/examples/exampleActivityCollection) that will show you some example Ximera environments!
+
 
