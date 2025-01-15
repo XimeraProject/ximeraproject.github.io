@@ -14,11 +14,52 @@ developers at all levels of experience come together to create
 something new.
 
 
+# Ximera Workshop 10
+
+
+
+
+
+
+# Past workshops
+
+
+## Ximera Workshop 9
+
+
+
+The Ximera Workshop 9 was a virtual workshop (Ximera Virtual Workshop 1) held spring of 2024. We had 5 participants.  Major
+accomplishments included: The Ximera document class was submitted to CTAN.
+
+
+
+
+
+
+
+
+## Ximera Workshop 8
+
+
+
+The Ximera Workshop 8 was held spring of 2019 in Columbus Ohio at Ohio State University. We had around 10 participants. All participants were deploying with Xake
+by the end of the workshop.
+
+
+
+## Ximera Workshop 7
+
+
+
+The Ximera Workshop 7 was held fall of 2018 in Columbus Ohio at Columbus State Community College. We had around 10 participants. All participants were deploying with Xake
+by the end of the workshop.
+
 
 ## Ximera Workshop 6
 
 
-The Ximera Workshop 6 will be held fall of 2018 in Gainesville Florida. Registration can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSe2ALks6GhId-oC85H6_eeMDiIhr01KnEA7q1zkyUkpV4li3g/viewform).
+The Ximera Workshop 6 was held fall of 2018 in Gainesville Florida at the University of Florida. We had around 15 participants. All participants were deploying with Xake
+by the end of the workshop.
 
 
 ## Ximera Workshop 5
