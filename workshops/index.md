@@ -19,8 +19,6 @@ something new.
 
 
 
-
-
 # Past workshops
 
 
