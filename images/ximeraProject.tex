@@ -1,0 +1,16 @@
+\documentclass{standalone}
+%compile, then use pdf2svg ximeraProject.pdf ximeraProject.svg
+\usepackage{tikz}
+\usepackage{standalone}
+\renewcommand*\sfdefault{lmssq}
+\usepackage{graphicx}
+\begin{document}
+
+\begin{tikzpicture}[x=1in,y=1in] 
+  \begin{scope}
+    \node[white] at (0,0) {\resizebox{2.6in}{!}{\input{tikzLogo.tex}}};
+    \node[white] at (0,-.4) {\resizebox{2.6in}{!}{\textsf{PROJECT}}};
+  \end{scope}
+\end{tikzpicture}
+
+\end{document}
