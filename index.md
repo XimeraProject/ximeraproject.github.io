@@ -30,7 +30,8 @@ latex:
     btn_class: "btn--primary"
 ---
 
-The nonprofit {{site.data.foundation}} provides the technology and community
+<!--The nonprofit {{site.data.foundation}}-->
+Ximera provides the technology and community
 support for free and open mathematics education materials.  Built with
 the support of instructors and faculty from multiple institutions, the
 project
