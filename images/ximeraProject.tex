@@ -1,5 +1,11 @@
 \documentclass{standalone}
-%compile, then use pdf2svg ximeraProject.pdf ximeraProject.svg
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% compile, then use 
+%% $ pdf2svg ximeraProject.pdf ximeraProject.svg
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \usepackage{tikz}
 \usepackage{standalone}
 \renewcommand*\sfdefault{lmssq}
@@ -9,7 +15,7 @@
 \begin{tikzpicture}[x=1in,y=1in] 
   \begin{scope}
     \node[white] at (0,0) {\resizebox{2.6in}{!}{\input{tikzLogo.tex}}};
-    \node[white] at (0,-.4) {\resizebox{2.6in}{!}{\textsf{PROJECT}}};
+    \node[white] at (0,-.35) {\resizebox{2.6in}{.25in}{\textsf{PROJECT}}};
   \end{scope}
 \end{tikzpicture}
 
