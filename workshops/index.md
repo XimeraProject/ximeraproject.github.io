@@ -16,7 +16,7 @@ something new.
 
 # Ximera Workshop 10
 
-
+The Ximera Workshop 10 will be held in Columbus Ohio at Ohio State Universities main campus.
 
 
 # Past workshops
