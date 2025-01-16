@@ -16,8 +16,19 @@ something new.
 
 # Ximera Workshop 10
 
-The Ximera Workshop 10 will be held in Columbus Ohio at Ohio State Universities main campus.
 
+Come discover how Ximera is revolutionizing online education at the 10th Ximera Workshop (XWX). XWX will be held in Columbus, Ohio at Ohio State University's main campus. 
+
+
+Whether you’re an experienced Ximera creator or just starting out, you’ll get hands-on experience using LaTeX, GitHub, and the Ximera platform to build truly engaging and interactive lessons and assessments.
+ 
+ 
+We’ll explore new features, discuss emerging best practices, and tackle real-world challenges through hackathon sessions and collaborative content building. You’ll learn how to analyze student data effectively, incorporate multimedia seamlessly, and create custom question types that elevate online learning for every student. Join a vibrant community of educators, developers, and innovators determined to make course design easier, smarter, and more impactful than ever. With expert-led sessions, practical demos, and plenty of time to collaborate, XW10 promises to be the most dynamic Ximera event yet—don’t miss it!
+
+FUNDING IS AVAILABLE: PLEASE APPLY HERE:
+
+
+ We look forward to seeing you at XW10!
 
 # Past workshops
 
