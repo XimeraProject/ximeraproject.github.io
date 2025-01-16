@@ -8,14 +8,15 @@
 
 \usepackage{tikz}
 \usepackage{standalone}
-\renewcommand*\sfdefault{lmssq}
+%\renewcommand*\sfdefault{lmssq}
+\usepackage{gillius}
 \usepackage{graphicx}
 \begin{document}
 
 \begin{tikzpicture}[x=1in,y=1in] 
   \begin{scope}
-    \node[white] at (0,0) {\resizebox{2.6in}{!}{\input{tikzLogo.tex}}};
-    \node[white] at (0,-.35) {\resizebox{2.6in}{.25in}{\textsf{PROJECT}}};
+    \node[black] at (0,0) {\resizebox{2.6in}{!}{\input{tikzLogo.tex}}};
+ %   \node[black] at (0,-.4) {\resizebox{2.6in}{.2in}{\textsf{PROJECT}}};
   \end{scope}
 \end{tikzpicture}
 
