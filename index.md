@@ -33,7 +33,9 @@ latex:
 The nonprofit {{site.data.foundation}} provides the technology and community
 support for free and open mathematics education materials.  Built with
 the support of instructors and faculty from multiple institutions, the
-Foundation supports open educational resources (OER), curates existing
+project
+<!--Foundation -->
+supports open educational resources (OER), curates existing
 resources, and builds the technology that enables instructors to take
 control of assessment.
 
