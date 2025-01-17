@@ -18,7 +18,7 @@ something new.
 
 **[PLEASE APPLY HERE](https://go.osu.edu/xwx)**
 
-Come discover how Ximera is revolutionizing online education at the 10th Ximera Workshop (XWX), May 12-15 2025. XWX will be held in Columbus, Ohio at Ohio State University's main campus. 
+Come discover how Ximera is revolutionizing online education at the 10th Ximera Workshop (XWX), May 12-14 2025. XWX will be held in Columbus, Ohio at Ohio State University's main campus. 
 
 
 Whether you’re an experienced Ximera creator or just starting out, you’ll get hands-on experience using LaTeX, GitHub, and the Ximera platform to build truly engaging and interactive lessons and assessments.
