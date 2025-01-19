@@ -8,7 +8,7 @@ password: ''
 sidebar:
   nav: "menu"
 infonomic:
-  - image_path: /images/infonomic.svg
+  - image_path: /images/infonomic.png
     alt: "Infonomic's logo"
     title: "Infonomic"
     excerpt: "We are partnering with <i>Infonomic</i> to develop our <i>Assignment-Grade Database</i> that will provide LTI 1.3 support."
