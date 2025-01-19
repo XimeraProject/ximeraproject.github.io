@@ -1,20 +1,28 @@
 ---
-github:
-  - image_path: /images/octocat.svg
-    alt: "GitHub Octocat"
-    title: "Git"
-    excerpt: "All content is hosted on GitHub; it is truly open and free."
-    url: "https://github.com/mooculus"
-    btn_label: "See the source"
+layout: single
+title: Partners
+type: page
+parent_id: '0'
+published: true
+password: ''
+sidebar:
+  nav: "menu"
+infonomic:
+  - image_path: /images/infonomic.svg
+    alt: "Infonomic's logo"
+    title: "Infonomic"
+    excerpt: "We are partnering with Infonomic to develop our Assignment-Grade Database that will provide LTI 1.3 support."
+    url: "https://infonomic.io/"
+    btn_label: "Homepage of Infonomic"
     btn_class: "btn--primary"
     
-latex:
-  - image_path: /images/ctanlion.svg
-    alt: "CTAN Lion"
-    title: '<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>'
-    excerpt: 'Create content in <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>. Publish your work as a traditional PDF or as an online interactive document.'
-    url: "https://ximera.osu.edu/mooculus/calculus3/interpretingTheGradient/digInGradient"
-    btn_label: "See an example"
+tailorswiftbot:
+  - image_path: /images/tsb.svg
+    alt: "Tailor Swift Bot's logo"
+    title: TailorSwiftBot'
+    excerpt: 'We ar partnering with TailorSwiftBot to ensure our content will be WCAG AA accessible.'
+    url: "https://tailorswiftbot.godaddysites.com/"
+    btn_label: "Homepage of TailorSwiftBot"
     btn_class: "btn--primary"
 ---
 
@@ -28,6 +36,6 @@ supports open educational resources (OER), curates existing
 resources, and builds the technology that enables instructors to take
 control of assessment.
 
-{% include feature_row id="latex" type="left" %}
+{% include feature_row id="infonomic" type="left" %}
 
-{% include feature_row id="github" type="right" %}
+{% include feature_row id="tailorswiftbot" type="right" %}
