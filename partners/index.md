@@ -11,7 +11,7 @@ infonomic:
   - image_path: /images/infonomic.svg
     alt: "Infonomic's logo"
     title: "Infonomic"
-    excerpt: "We are partnering with Infonomic to develop our Assignment-Grade Database that will provide LTI 1.3 support."
+    excerpt: "We are partnering with <i>Infonomic</i> to develop our <i>Assignment-Grade Database</i> that will provide LTI 1.3 support."
     url: "https://infonomic.io/"
     btn_label: "Homepage of Infonomic"
     btn_class: "btn--primary"
@@ -19,22 +19,15 @@ infonomic:
 tailorswiftbot:
   - image_path: /images/tsb.svg
     alt: "Tailor Swift Bot's logo"
-    title: TailorSwiftBot'
-    excerpt: 'We ar partnering with TailorSwiftBot to ensure our content will be WCAG AA accessible.'
+    title: 'Tailor Swift Bot'
+    excerpt: 'We are partnering with <i>Tailor Swift Bot</i> to ensure our content will be WCAG AA accessible.'
     url: "https://tailorswiftbot.godaddysites.com/"
-    btn_label: "Homepage of TailorSwiftBot"
+    btn_label: "Homepage of Tailor Swift Bot"
     btn_class: "btn--primary"
 ---
 
 <!--The nonprofit {{site.data.foundation}}-->
-Ximera provides the technology and community
-support for free and open mathematics education materials.  Built with
-the support of instructors and faculty from multiple institutions, the
-project
-<!--Foundation -->
-supports open educational resources (OER), curates existing
-resources, and builds the technology that enables instructors to take
-control of assessment.
+Ximera developers are currently working with two companies on critical issues. 
 
 {% include feature_row id="infonomic" type="left" %}
 
