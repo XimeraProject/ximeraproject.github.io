@@ -16,7 +16,7 @@ Program](https://www2.ed.gov/programs/otp/index.html)  grant. In the past, the X
 
 ### Disclaimer
 
-_The contents of this repository were developed under a grant from the
+_The contents of this site were developed under a grant from the Federal
 Department of Education. However, those contents do not necessarily
 represent the policy of the Department of Education, and you should
 not assume endorsement by the Federal Government._
