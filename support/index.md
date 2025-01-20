@@ -14,3 +14,9 @@ The Ximera Project is funded 2024-2026 (with no other external funding) by a $2,
 Program](https://www2.ed.gov/programs/otp/index.html)  grant. In the past, the Ximera Project has also received support from NSF Grant DUE-1245433, the Shuttleworth Foundation, the Ohio State University Department of Mathematics, and the Affordable Learning Exchange at OSU.
 
 
+### Disclaimer
+
+_The contents of this repository were developed under a grant from the
+Department of Education. However, those contents do not necessarily
+represent the policy of the Department of Education, and you should
+not assume endorsement by the Federal Government._
