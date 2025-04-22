@@ -20,7 +20,7 @@ tailorswiftbot:
   - image_path: /images/tsb.svg
     alt: "Tailor Swift Bot's logo"
     title: 'Tailor Swift Bot'
-    excerpt: 'We are partnering with <i>Tailor Swift Bot</i> to ensure our content will be WCAG AA accessible.'
+    excerpt: 'We are partnering with <i>Tailor Swift Bot</i> to ensure our content will be WCAG 2.1 AA accessible as required by the Department of Education.'
     url: "https://tailorswiftbot.godaddysites.com/"
     btn_label: "Homepage of Tailor Swift Bot"
     btn_class: "btn--primary"

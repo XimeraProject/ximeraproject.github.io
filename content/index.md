@@ -1,6 +1,6 @@
 ---
 layout: single
-title: For Students
+title: Content
 type: page
 parent_id: '0'
 published: true
@@ -9,8 +9,8 @@ password: ''
 #  nav: "menu"
 ---
 
-Ximera provides free interactive textbooks. Students of all kinds can
-freely learn and interact with our materials. 
+Ximera provides free interactive online content. Anyone with an internet connection can
+freely learn and interact with our materials, without even logging in!
 
 ## Calculus at The Ohio State University
 

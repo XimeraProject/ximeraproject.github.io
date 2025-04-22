@@ -7,20 +7,20 @@ main:
       - title: "Board"
         url: board	
     
-  - title: For Students
-    url: /students/
+  - title: Content
+    url: /content/
 
-  - title: For Instructors
-    url: /instructors/  
+  - title: Authors
+    url: /authors/   
 
-  - title: For Authors
-    url: /authors/
-
-  - title: Workshops
-    url: /workshops/      
+  - title: Institutions
+    url: /institutions/  
 
   - title: Partners
     url: /partners/
+
+  - title: Workshops
+    url: /workshops/   
 
   - title: Support
     url: /support/
