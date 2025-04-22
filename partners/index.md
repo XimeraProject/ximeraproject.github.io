@@ -11,7 +11,7 @@ infonomic:
   - image_path: /images/infonomic.svg
     alt: "Infonomic's logo"
     title: "Infonomic"
-    excerpt: "We are partnering with Infonomic to develop our <i>Assignment-Grade Database</i> that will provide LTI 1.3 support."
+    excerpt: 'We are partnering with Infonomic to develop our <b>Assignment-Grade Database</b> that will provide LTI 1.3 support and detailed analytics.'
     url: "https://infonomic.io/"
     btn_label: "Homepage of Infonomic"
     btn_class: "btn--primary"
