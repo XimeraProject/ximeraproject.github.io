@@ -17,10 +17,13 @@ interactive textbooks.
 ![Ximera flow-chart](https://ximera.osu.edu/introduction/gettingStarted/whatIsXimera/XimeraGraphic.png)
 
 
-Click [here for a for a GitHub repository](https://ximera.osu.edu/introduction/gettingStarted) that will help you get started with Ximera!
+At this point, we have an <b>installation-free</b> set-up for new authors. 
+
+
+Click [here for a for a GitHub repository](https://github.com/ximeraProject/ximeraFirstSteps) that will help you get started with Ximera!
 
 
 
-Click [here for the Ximera User Manual](https://ximera.osu.edu/examples/exampleActivityCollection).
+Click [here for the Ximera User Manual](https://github.com/XimeraProject/ximeraManuals/releases/download/v1.0.0/ximeraUserManual.pdf).
 
 
