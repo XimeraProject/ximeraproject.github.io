@@ -28,7 +28,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 
 ---
 
-## Daily Schedule
+## Daily Schedule (DRAFT: Subject to change)
 
 | Time        | May 12          |  May 13     | May 14   |
 | ----------- | ----------------------- | ------------------- | ------------------- |
@@ -45,11 +45,13 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 
 ## Workshop Goals
 
-- Finalize a new edition of the **Ximera Authoring Manual**
-- Submit updated materials to **CTAN**
-- Begin to develop **LTI 1.3 integration** at OSU
+- Finalize a new edition of the **Ximera User Manual**
+- Submit updated LaTeX materials to **CTAN**
+- Begin to develop **LTI 1.3 integration** at OSU and beyond
 - Prototype a new **customizable, accessible server**
 - Draft **Calculus translations** in Portuguese and Spanish
+
+---
 
 # Past workshops
 
