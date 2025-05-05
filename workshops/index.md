@@ -13,10 +13,46 @@ Ximera workshops are true **working** workshops where users and
 developers at all levels of experience come together to create
 something new.
 
-
 # Ximera Workshop 10 (5/12-5/14)
 
-<!--**[PLEASE APPLY HERE](https://go.osu.edu/xwx)** -->
+** Location:** Ohio State University, Columbus, Ohio  
+** Dates:** May 12–14, 2025  
+** Travel Days:** Sunday, May 11 & Thursday, May 15  
+** Presentations:** Cockins Hall 240 (CH 240)  
+** Workgroups:** CH 240 & Math Tower 724 (MW 724)
+
+---
+
+Ximera Workshop 10 is a hands-on, collaborative event bringing together creators, educators, and developers to improve and expand the Ximera platform. Whether you're just beginning or have authored full courses, you'll contribute to shaping the future of interactive online math education.
+
+We'll spend our mornings learning and discussing major topics, and our afternoons working together to build content, prototype tools, and draft new resources.
+
+---
+
+## Daily Schedule
+
+| Time        | May 12          |  May 13     | May 14   |
+| ----------- | ----------------------- | ------------------- | ------------------- |
+| 9:00–9:30   | Arrival                 | Arrival              | Arrival              |
+| 9:30–10:20  | Introduction to Ximera | Advanced Validators           | Accessibility        |
+| 10:20–10:40 | Break                   | Break                | Break                |
+| 10:40–11:30 | Modulus Demo           | Desmos               | Server               |
+| 11:30–1:00  | Lunch                   | Lunch                | Lunch                |
+| 1:00–2:50   | Working Groups          | Working Groups       | Working Groups       |
+| 2:50–3:00   | Break                   | Break                | Break                |
+| 3:00–4:00   | Wrap-up                 | Wrap-up              | Wrap-up              |
+
+---
+
+## Workshop Goals
+
+- Finalize a new edition of the **Ximera Authoring Manual**
+- Submit updated materials to **CTAN**
+- Begin to develop **LTI 1.3 integration** at OSU
+- Prototype a new **customizable, accessible server**
+- Draft **Calculus translations** in Portuguese and Spanish
+<!-- # Ximera Workshop 10 (5/12-5/14)
+
 
 Come discover how Ximera is revolutionizing online education at the 10th Ximera Workshop (XWX), May 12-14 2025. XWX will be held in Columbus, Ohio at Ohio State University's main campus. 
 
@@ -26,12 +62,11 @@ Whether you’re an experienced Ximera creator or just starting out, you’ll ge
  
 We’ll explore new features, discuss emerging best practices, and tackle real-world challenges through hackathon sessions and collaborative content building. You’ll learn how to analyze student data effectively, incorporate multimedia seamlessly, and create custom question types that elevate online learning for every student. Join a vibrant community of educators, developers, and innovators determined to make course design easier, smarter, and more impactful than ever. With expert-led sessions, practical demos, and plenty of time to collaborate, XW10 promises to be the most dynamic Ximera event yet—don’t miss it!
 
-<!--**[FUNDING IS AVAILABLE:  PLEASE APPLY HERE](https://go.osu.edu/xwx)**-->
 
 The basic format of the conference will consist of talks by researchers and developers in the mornings, with the afternoons open for working. We'll reserve Sunday May 11th and Thursday May 15th as travel days. 
 
 
- We look forward to seeing you at XW10!
+ We look forward to seeing you at XW10! -->
 
 # Past workshops
 
