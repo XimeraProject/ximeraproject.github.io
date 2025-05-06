@@ -28,8 +28,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 
 ---
 
-## Daily Schedule (DRAFT: Subject to change)
-## 🗓️ Daily Schedule
+## Daily Schedule
 
 ### Monday, May 12
 
