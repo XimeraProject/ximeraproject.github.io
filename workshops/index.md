@@ -16,67 +16,67 @@ something new.
 # Ximera Workshop 10 (5/12-5/14)
 
 **Location:** Ohio State University, Columbus, Ohio  
-**Dates:** May 12–14, 2025  
+**Dates:** May 12-14, 2025  
 **Presentations:** Cockins Hall 240 (CH 240)  
 **Workgroups:** CH 240 & Math Tower 724 (MW 724)
 
----
 
-Ximera Workshop 10 is a hands-on, collaborative event bringing together creators, educators, and developers to improve and expand the Ximera platform. Whether you're just beginning or have authored full courses, you'll contribute to shaping the future of interactive online math education.
+The Ximera Workshop 10 is a hands-on, collaborative event bringing together creators, educators, and developers to improve and expand the Ximera platform. Whether you're just beginning or have authored full courses, you'll contribute to shaping the future of interactive online math education.
 
 We'll spend our mornings learning and discussing major topics, and our afternoons working together to build content, prototype tools, and draft new resources.
 
----
+
 
 ## Daily Schedule
 
 ### Monday, May 12
 
-- **9:00–9:30** Arrival (CH 240)  
-- **9:30–10:20** *Introduction to Ximera* — Snapp  
-- **10:20–10:30** Break  
-- **10:30–11:20** *Deploying in Ximera* — Obbels  
-- **11:20–11:30** Break  
-- **11:30–12:20** *Modulus Demo* — Lipsky  
-- **12:20–12:30** Organize Lunch  
-- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
-- **3:20–3:30** Break  
-- **3:30–4:30** Wrap-up  
+- **9:00-9:30** Arrival (CH 240)  
+- **9:30-10:20** *Introduction to Ximera* - Snapp  
+- **10:20-10:30** Break  
+- **10:30-11:20** *Deploying in Ximera* - Obbels  
+- **11:20-11:30** Break  
+- **11:30-12:20** *Modulus Demo* - Lipsky  
+- **12:20-12:30** Organize Lunch  
+- **12:30-2:00** Lunch (in groups)
+- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **3:20-3:30** Break  
+- **3:30-4:30** Wrap-up  
 
----
 
 ### Tuesday, May 13
 
-- **9:00–9:30** Arrival (CH 240)  
-- **9:30–10:20** *Advanced Validators* — Nowell  
-- **10:20–10:30** Break  
-- **10:30–11:20** *Desmos*  
-- **11:20–11:30** Break  
-- **11:30–12:20** *Server* — Fowler  
-- **12:20–12:30** Organize Lunch  
-- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
-- **3:20–3:30** Break  
-- **3:30–4:30** Wrap-up  
+- **9:00-9:30** Arrival (CH 240)  
+- **9:30-10:20** *Advanced Validators* - Nowell  
+- **10:20-10:30** Break  
+- **10:30-11:20** *Desmos*  
+- **11:20-11:30** Break  
+- **11:30-12:20** *Server* - Fowler  
+- **12:20-12:30** Organize Lunch  
+- **12:30-2:00** Lunch (in groups)
+- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **3:20-3:30** Break  
+- **3:30-4:30** Wrap-up  
 
----
 
 ### Wednesday, May 14
 
-- **9:00–9:30** Arrival (CH 240)  
-- **9:30–10:20** *Accessibility* — Kuan  
-- **10:20–10:30** Break  
-- **10:30–11:20** *Getting Help and Support*  
-- **11:20–11:30** Break  
-- **11:30–12:20** *Next Steps and Discussion*  
-- **12:20–12:30** Organize Lunch  
-- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
-- **3:20–3:30** Break  
-- **3:30–4:30** Wrap-up  
+- **9:00-9:30** Arrival (CH 240)  
+- **9:30-10:20** *Accessibility* - Kuan  
+- **10:20-10:30** Break  
+- **10:30-11:20** *Printing with Style* - Snapp
+- **11:20-11:30** Break  
+- **11:30-12:20** *Next Steps and Discussion*  
+- **12:20-12:30** Organize Lunch  
+- **12:30-2:00** Lunch (in groups)
+- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **3:20-3:30** Break  
+- **3:30-4:30** Wrap-up  
 
----
 
 ## Workshop Goals
 
+- All participants **deploying Ximera content** to local and remote servers
 - Finalize a new edition of the **Ximera User Manual**
 - Submit updated LaTeX materials to **CTAN**
 - Begin to develop **LTI 1.3 integration** at OSU and beyond
