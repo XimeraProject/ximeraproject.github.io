@@ -29,17 +29,50 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ---
 
 ## Daily Schedule (DRAFT: Subject to change)
+## 🗓️ Daily Schedule
 
-| Time        | May 12          |  May 13     | May 14   |
-| ----------- | ----------------------- | ------------------- | ------------------- |
-| 9:00–9:30   | Arrival                 | Arrival              | Arrival              |
-| 9:30–10:20  | Introduction to Ximera | Advanced Validators           | Accessibility        |
-| 10:20–10:40 | Break                   | Break                | Break                |
-| 10:40–11:30 | Modulus Demo           | Desmos               | Server               |
-| 11:30–1:00  | Lunch                   | Lunch                | Lunch                |
-| 1:00–2:50   | Working Groups          | Working Groups       | Working Groups       |
-| 2:50–3:00   | Break                   | Break                | Break                |
-| 3:00–4:00   | Wrap-up                 | Wrap-up              | Wrap-up              |
+### Monday, May 12
+
+- **9:00–9:30** Arrival (CH 240)  
+- **9:30–10:20** *Introduction to Ximera* — Snapp  
+- **10:20–10:30** Break  
+- **10:30–11:20** *Deploying in Ximera* — Obbels  
+- **11:20–11:30** Break  
+- **11:30–12:20** *Modulus Demo* — Lipsky  
+- **12:20–12:30** Organize Lunch  
+- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
+- **3:20–3:30** Break  
+- **3:30–4:30** Wrap-up  
+
+---
+
+### Tuesday, May 13
+
+- **9:00–9:30** Arrival (CH 240)  
+- **9:30–10:20** *Advanced Validators* — Nowell  
+- **10:20–10:30** Break  
+- **10:30–11:20** *Desmos*  
+- **11:20–11:30** Break  
+- **11:30–12:20** *Server* — Fowler  
+- **12:20–12:30** Organize Lunch  
+- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
+- **3:20–3:30** Break  
+- **3:30–4:30** Wrap-up  
+
+---
+
+### Wednesday, May 14
+
+- **9:00–9:30** Arrival (CH 240)  
+- **9:30–10:20** *Accessibility* — Kuan  
+- **10:20–10:30** Break  
+- **10:30–11:20** *Getting Help and Support*  
+- **11:20–11:30** Break  
+- **11:30–12:20** *Next Steps and Discussion*  
+- **12:20–12:30** Organize Lunch  
+- **12:30–3:20** Lunch (on your own) / Working Groups (CH 240 & MW 724)  
+- **3:20–3:30** Break  
+- **3:30–4:30** Wrap-up  
 
 ---
 
