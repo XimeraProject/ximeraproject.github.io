@@ -36,7 +36,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **10:20-10:30** Break  
 - **10:30-11:20** *Deploying in Ximera* - Obbels  
 - **11:20-11:30** Break  
-- **11:30-12:20** *Modulus Demo* - Lipsky  
+- **11:30-12:20** *Modulus Demo* - Infonomic  
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
 - **2:00-3:20** Working Groups (CH 240 & MW 724)  
@@ -64,7 +64,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **9:00-9:30** Arrival (CH 240)  
 - **9:30-10:20** *Accessibility* - Kuan  
 - **10:20-10:30** Break  
-- **10:30-11:20** *Printing with Style* - Snapp
+- **10:30-11:20** *Interactive Elements and Ximera* - Findell
 - **11:20-11:30** Break  
 - **11:30-12:20** *Next Steps and Discussion*  
 - **12:20-12:30** Organize Lunch  
