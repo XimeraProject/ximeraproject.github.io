@@ -64,7 +64,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **9:00-9:30** Arrival (CH 240)  
 - **9:30-10:20** *Accessibility* - Kuan  
 - **10:20-10:30** Break  
-- **10:30-11:20** *Interactive Elements and Ximera* - Findell
+- **10:30-11:20** *Interactive Elements and Ximera* - Findell and Davis
 - **11:20-11:30** Break  
 - **11:30-12:20** *Next Steps and Discussion*  
 - **12:20-12:30** Organize Lunch  
