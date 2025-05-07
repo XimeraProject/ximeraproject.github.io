@@ -49,7 +49,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **9:00-9:30** Arrival (CH 240)  
 - **9:30-10:20** *Advanced Validators* - Nowell (UF)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Desmos* Snapp (OSU) and Guindon (Desmos)
+- **10:30-11:20** *Desmos* Snapp (OSU), Davis (OSU), and Guindon (Desmos)
 - **11:20-11:30** Break  
 - **11:30-12:20** *Server* - Fowler (OSU) 
 - **12:20-12:30** Organize Lunch  
