@@ -32,9 +32,9 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Monday, May 12
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** *Introduction to Ximera* - Snapp  
+- **9:30-10:20** *Introduction to Ximera* - Snapp (OSU)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Deploying in Ximera* - Obbels  
+- **10:30-11:20** *Deploying in Ximera* - Obbels (KU Leuven) 
 - **11:20-11:30** Break  
 - **11:30-12:20** *Modulus Demo* - Infonomic  
 - **12:20-12:30** Organize Lunch  
@@ -47,11 +47,11 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Tuesday, May 13
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** *Advanced Validators* - Nowell  
+- **9:30-10:20** *Advanced Validators* - Nowell (UF)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Desmos*  
+- **10:30-11:20** *Desmos* Snapp (OSU) and Guindon (Desmos)
 - **11:20-11:30** Break  
-- **11:30-12:20** *Server* - Fowler  
+- **11:30-12:20** *Server* - Fowler (OSU) 
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
 - **2:00-3:20** Working Groups (CH 240 & MW 724)  
@@ -62,9 +62,9 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Wednesday, May 14
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** *Accessibility* - Kuan  
+- **9:30-10:20** *Accessibility* - Kuan (OSU)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Interactive Elements and Ximera* - Findell and Davis
+- **10:30-11:20** *Interactive Elements and Ximera* - Findell and Davis (OSU)
 - **11:20-11:30** Break  
 - **11:30-12:20** *Next Steps and Discussion*  
 - **12:20-12:30** Organize Lunch  
@@ -78,6 +78,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 
 - All participants **deploying Ximera content** to local and remote servers
 - Finalize a new edition of the **Ximera User Manual**
+- Merge LuaXake with the master branch of Ximera LaTeX
 - Submit updated LaTeX materials to **CTAN**
 - Begin to develop **LTI 1.3 integration** at OSU and beyond
 - Prototype a new **customizable, accessible server**
