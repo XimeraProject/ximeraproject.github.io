@@ -32,11 +32,11 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Monday, May 12
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** *Introduction to Ximera* - Snapp (OSU)
+- **9:30-10:20** [*Introduction to Ximera* - Snapp (OSU)](https://osu.zoom.us/rec/share/bufXqOF2txNG6ImRHffEUwR7ka7_RxOS1pTYwMKbFovKKr-4EsDlyqvjpK1ujSlJ.__AzfwLGbU5lna3g)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Deploying in Ximera* - Obbels (KU Leuven) 
+- **10:30-11:20** [*Deploying in Ximera* - Obbels (KU Leuven)](https://osu.zoom.us/rec/share/8WuQ1gT6eEYg3GirDhkkVpKp_ZjGjYK2qUYYKsd1EnMO3FRj32tJtJujonIec74k.o7V7OfA2n7OhY5qW) 
 - **11:20-11:30** Break  
-- **11:30-12:20** *Modulus Demo* - Infonomic  
+- **11:30-12:20** [*Modulus Demo* - Infonomic](https://osu.zoom.us/rec/share/VEr3fkws3G5kk-Igg13owRoBrBlLMjoAuVC1jJ1e_8D9OEtKhsF4tY68PGscrWOj.Uc9Na9qZuYQagvBH)
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
 - **2:00-3:20** Working Groups (CH 240 & MW 724)  
