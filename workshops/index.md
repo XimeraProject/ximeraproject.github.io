@@ -39,7 +39,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **11:30-12:20** [*Modulus Demo* - Infonomic](https://osu.zoom.us/rec/share/VEr3fkws3G5kk-Igg13owRoBrBlLMjoAuVC1jJ1e_8D9OEtKhsF4tY68PGscrWOj.Uc9Na9qZuYQagvBH)
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **2:00-3:20** Working Groups (MW 724)  
 - **3:20-3:30** Break  
 - **3:30-4:30** Wrap-up  
 
@@ -54,7 +54,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **11:30-12:20** *Server* - Fowler (OSU) 
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **2:00-3:20** Working Groups (MW 724)  
 - **3:20-3:30** Break  
 - **3:30-4:30** Wrap-up  
 
@@ -69,7 +69,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **11:30-12:20** *Next Steps and Discussion*  
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** Working Groups (CH 240 & MW 724)  
+- **2:00-3:20** Working Groups (MW 724)  
 - **3:20-3:30** Break  
 - **3:30-4:30** Wrap-up  
 
