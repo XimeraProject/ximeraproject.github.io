@@ -18,7 +18,7 @@ something new.
 **Location:** Ohio State University, Columbus, Ohio  
 **Dates:** May 12-14, 2025  
 **Presentations:** Cockins Hall 240 (CH 240)  
-**Workgroups:** CH 240 & Math Tower 724 (MW 724)
+**Workgroups:** CH 240 and Math Tower 724 (MW 724)
 
 
 The Ximera Workshop 10 is a hands-on, collaborative event bringing together creators, educators, and developers to improve and expand the Ximera platform. Whether you're just beginning or have authored full courses, you'll contribute to shaping the future of interactive online math education.
@@ -47,14 +47,14 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Tuesday, May 13
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** *Advanced Validators* - Nowell (UF)
+- **9:30-10:20** [*Advanced Validators* - Nowell (UF)](https://osu.zoom.us/rec/share/0NaRxgyzhxnpy3VSHrql6t5MgYMLMyJ_Ik0uwdi0iZMcc2OBj2oVockpopgt_qOV.IFCn6qK6ehrZSJXE)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Desmos* Kuczmarski (Shoreline Community College), Davis (OSU), and Guindon (Desmos)
+- **10:30-11:20** [*Desmos* Kuczmarski (Shoreline Community College), Davis (OSU), and Guindon (Desmos)](https://osu.zoom.us/rec/share/SbxYNOO8px5MpGK027jdoQ9PvqiLxTuPQ1SOqwDbghBN7D5YoJ5zRXQcJsB_Wb0n.92nA2nUFpA3YYduU)
 - **11:20-11:30** Break  
-- **11:30-12:20** *Server* - Fowler (OSU) 
+- **11:30-12:20** [*Server* - Fowler (OSU)](https://osu.zoom.us/rec/share/qAZAC5lWAjJDnCJccP1Zr3bSh2qnXpv76xSPFFRykI7SvpXqBCCDIRazzU0FIjCZ.5Xl0DWiCf5WrM0p5) 
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** Working Groups (MW 724)  
+- **2:00-3:20** Working Groups (CH 240)  
 - **3:20-3:30** Break  
 - **3:30-4:30** Wrap-up  
 
