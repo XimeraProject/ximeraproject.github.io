@@ -62,7 +62,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 ### Wednesday, May 14
 
 - **9:00-9:30** Arrival (CH 240)  
-- **9:30-10:20** [*Accessibility* - Kuan (OSU/TailorSwiftBot)](https://mediasite.osu.edu/Mediasite/channel/2b1820c007b84e5ea019ba8a1a238c5b5f/watch/b384b5ea22cd42c5a317419fd5cc24901d)
+- **9:30-10:20** [*Accessibility* - Kuan (OSU/TailorSwiftBot)](https://mediasite.osu.edu/Mediasite/channel/2b1820c007b84e5ea019ba8a1a238c5b5f/watch/b384b5ea22cd42c5a317419fd5cc24901d) (captions were manually checked and the transcript can be downloaded)
 - **10:20-10:30** Break  
 - **10:30-11:20** [*Interactive Elements and Ximera* - Findell and Davis (OSU)](https://mediasite.osu.edu/Mediasite/channel/2b1820c007b84e5ea019ba8a1a238c5b5f/watch/8bf742a386844069b015c530d56697db1d)
 - **11:20-11:30** Break  
