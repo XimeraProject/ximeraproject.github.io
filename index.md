@@ -30,12 +30,12 @@ latex:
     btn_class: "btn--primary"
 ---
 
-<!--The nonprofit {{site.data.foundation}}-->
+<!--The nonprofit {{site.data.project}}-->
 Ximera provides the technology and community
 support for free and open mathematics education materials.  Built with
 the support of instructors and faculty from multiple institutions, the
 project
-<!--Foundation -->
+<!--Project -->
 supports open educational resources (OER), curates existing
 resources, and builds the technology that enables instructors to take
 control of assessment.

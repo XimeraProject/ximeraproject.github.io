@@ -9,16 +9,16 @@ sidebar:
   nav: "menu"
 ---
 
-There are various principles that the Ximera Foundation follows in the
+There are various principles that the Ximera Project follows in the
 technology it creates and promotes.  Above these principles is the
-tagline of the Foundation: "only work to create the future you want to
+tagline of the Project: "only work to create the future you want to
 inhabit."  Edtech offers many bad paths, such as when adaptive
 platforms are repurposed not as pumps to promote learning but as
 filters, when data is used unethically for "predictive analytics" that
 may be simply reinforce existing sexism and racism in mathematics
 education.
 
-Cognizant of such dangers, the Foundation is committed to working
+Cognizant of such dangers, the Project is committed to working
 towards a future that we actually want to inhabit, meaning a future
 where a high-quality mathematics education is broadly available.
 
@@ -39,7 +39,7 @@ ask students to pay a third-party to grade student work.
 
 # Rely on open standards
 
-Rather than reinventing technology, the Foundation connects existing
+Rather than reinventing technology, the Project connects existing
 open standards.
 
 One example of this is a disdain for walled gardens.  Content belongs
@@ -59,7 +59,7 @@ not be rendered at present.
 # Data-driven
 
 There's huge asset specificity in math education.  Large
-institutions already have the content experts, so the Foundation
+institutions already have the content experts, so the Project
 leverages the human resources already present in higher education
 institutions (which would be costly to replicate in industry, given
 industry rates for mathematicians) to assist with one thing that
