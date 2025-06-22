@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Ximera Foundation"
+title                    : "Ximera Project"
 title_separator          : "-"
-name                     : "Ximera Foundation"
+name                     : "Ximera Project"
 description              : "Open math."
 url                      : "https://ximera.org"
 baseurl                  : 
