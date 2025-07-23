@@ -20,8 +20,8 @@ Ximera is maintained by a community of people. The lead developers are:
 
 - Bart Snapp (Project Manager and <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> Development)
 - Jim Fowler (Frontend/Backend Development)
-- Jason Nowell (Answer-type/LaTeX Development)
-- Wim Obbels (DevOps: Frontend/LaTeX/Deployment Development)
+- Jason Nowell (Answer-type/<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> Development)
+- Wim Obbels (DevOps: Frontend/<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>/Deployment Development)
 - Jeff Kuan (Accessibility Specialist)
 
 
