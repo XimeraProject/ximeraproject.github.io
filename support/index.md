@@ -18,7 +18,7 @@ Program](https://www2.ed.gov/programs/otp/index.html)  grant. In the past, the X
 
 Ximera is maintained by a community of people. The lead developers are:
 
-- Bart Snapp (Project Manager and LaTeX Development)
+- Bart Snapp (Project Manager and <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> Development)
 - Jim Fowler (Frontend/Backend Development)
 - Jason Nowell (Answer-type/LaTeX Development)
 - Wim Obbels (DevOps: Frontend/LaTeX/Deployment Development)
