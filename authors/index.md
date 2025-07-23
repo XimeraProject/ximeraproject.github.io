@@ -24,6 +24,6 @@ Click [here for a for a GitHub repository](https://github.com/ximeraProject/xime
 
 
 
-Click [here for the Ximera User Manual](https://github.com/XimeraProject/ximeraManuals/releases/download/v1.0.0/ximeraUserManual.pdf).
+Click [here for the Ximera User Manual](https://github.com/XimeraProject/ximeraManuals/releases/download/v1.5.0/ximeraUserManual.pdf).
 
 

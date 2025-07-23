@@ -16,13 +16,13 @@ infonomic:
     btn_label: "Homepage of Infonomic"
     btn_class: "btn--primary"
     
-tailorswiftbot:
+tailorswiftbots:
   - image_path: /images/tsb.svg
-    alt: "Tailor Swift Bot's logo"
-    title: 'Tailor Swift Bot'
-    excerpt: 'We are partnering with Tailor Swift Bot to ensure our content will be WCAG 2.1 AA accessible as required by the US Department of Education.'
-    url: "https://tailorswiftbot.godaddysites.com/"
-    btn_label: "Homepage of Tailor Swift Bot"
+    alt: "Tailor Swift Bots' logo"
+    title: 'Tailor Swift Bots LLC'
+    excerpt: 'We are partnering with Tailor Swift Bots LLC to ensure our content will be WCAG 2.1 AA accessible as required by the US Department of Education.'
+    url: "https://tailorswiftbot.com/"
+    btn_label: "Homepage of Tailor Swift Bots LLC"
     btn_class: "btn--primary"
 ---
 
@@ -31,4 +31,4 @@ Ximera developers are currently working with two companies on critical issues.
 
 {% include feature_row id="infonomic" type="left" %}
 
-{% include feature_row id="tailorswiftbot" type="right" %}
+{% include feature_row id="tailorswiftbots" type="right" %}

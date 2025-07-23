@@ -26,6 +26,7 @@ Here are some of the interactive textbooks and activities available through Xime
 - [Calculus 2](https://go.osu.edu/mc2)
 - [Calculus 3](https://go.osu.edu/mc3)
 - [Linear Algebra: An Interactive Introduction](https://go.osu.edu/ila)
+- [Differential Equations: An Interactive Introduction](https://go.osu.edu/idiffeq)
 - [Systems: Number of Solutions (with Parameter)](https://go.osu.edu/mepr)
 - [Math for Elementary Teachers: Part I](https://go.osu.edu/met1)
 - [Math for Elementary Teachers: Part II](https://go.osu.edu/met2)

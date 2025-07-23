@@ -24,4 +24,3 @@ Here is an (incomplete) list of institutions that use or are developing material
 - University of Cincinnati  
 - University of Connecticut  
 - University of Florida  
-- Yale  
