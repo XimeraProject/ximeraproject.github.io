@@ -8,7 +8,7 @@ password: ''
 #sidebar:
 #  nav: "menu"
 ---
-Ximera strives to be compliant with the Web Content Accessibility Guidelines (WCAG) 2.1 AA standard, as required by the United States Department of Education. These are the technical standards that will be required of public colleges and universities in April 2026, according to the Department of Justice's interpretation of Title II of the Americans with Disabilities Act. We are currently partnering with [Tailor Swift Bot](https://tailorswiftbot.com/) to ensure that our content meets these standards.
+Ximera strives to be compliant with the Web Content Accessibility Guidelines (WCAG) 2.1 AA standard, as required by the United States Department of Education. These are the technical standards that will be required of public colleges and universities in April 2026, according to the Department of Justice's interpretation of Title II of the Americans with Disabilities Act. We are currently partnering with [Tailor Swift Bots LLC](https://tailorswiftbot.com/) to ensure that our content meets these standards.
 
 Of course, meeting a technical standard does not imply that content will still be accessible to every user with a disability. It is important that instructors include an [accessibility statement](https://www.w3.org/WAI/planning/statements/) for their students. Depending on the institution's organization, the contact person may be the disability resources office, an instructional designer, or even another faculty member. If you wish to verify that your course meets WCAG 2.1 AA, you may email [Jeffrey Kuan](mailto:kuan.44@osu.edu), who can use a variety of screen readers and automatic accessibility checkers. **Do NOT claim that your course is WCAG 2.1 AA compliant without a manual human verification.**
 
