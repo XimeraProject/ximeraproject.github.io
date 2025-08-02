@@ -16,7 +16,7 @@ github:
     alt: "GitHub Octocat"
     title: "Git"
     excerpt: "All content is hosted on GitHub; it is truly open and free."
-    url: "https://github.com/mooculus"
+    url: "https://github.com/ximeraProject/ximeraFirstSteps"
     btn_label: "See the source"
     btn_class: "btn--primary"
     
