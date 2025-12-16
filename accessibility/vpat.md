@@ -1,6 +1,5 @@
 # Accessibility Conformance Report  
 ## WCAG 2.1 Level AA  
-(Based on VPAT® Version 2.5 Rev)
 
 ---
 
@@ -13,7 +12,7 @@
 - **Primary Use Case:** Postsecondary and secondary education
 - **Hosting Model:** Self-hosted or institutionally hosted web application
 - **Contact Information:** https://ximera.org
-- **Report Date:** _(Insert date)_
+- **Report Date:** 12/2025
 
 ---
 
@@ -115,20 +114,6 @@ The terms used in this report are defined as follows:
 | **3.3.3 Error Suggestion** | Supports | Where applicable, suggestions for correcting errors are provided. |
 | **3.3.4 Error Prevention (Legal, Financial, Data)** | **Supports** | Ximera provides confirmation, revision, and unlimited retry mechanisms for problem submissions. No irreversible legal or financial transactions occur. |
 | **4.1.3 Status Messages (2.1)** | Partially Supports | Some dynamic feedback is available to assistive technologies; improvements are ongoing for real-time math feedback. |
-
----
-
-## Additional Notes on Error Prevention (WCAG 2.1 SC 3.3.4)
-
-Ximera’s pedagogical model explicitly emphasizes **error tolerance and reversibility**:
-
-- Students may revise and resubmit responses without penalty.
-- No submissions result in irreversible consequences.
-- Incorrect inputs are treated as part of the learning process, not as final transactions.
-
-This aligns directly with the intent of  
-**WCAG 2.1 Success Criterion 3.3.4 – Error Prevention (Legal, Financial, Data)**  
-as described in the W3C specification.
 
 ---
 
