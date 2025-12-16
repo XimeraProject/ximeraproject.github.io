@@ -11,6 +11,7 @@ password: ''
 
 Ximera provides free interactive online content. Anyone with an internet connection can
 freely learn and interact with our materials, without even logging in!
+In 2024, over 30,000 students used Ximera in courses, for an estimated savings of $3.5 million dollars. 
 
 
 ## Selected Ximera Activities
@@ -31,21 +32,6 @@ Here are some of the interactive textbooks and activities available through Xime
 - [Math for Elementary Teachers: Part I](https://go.osu.edu/met1)
 - [Math for Elementary Teachers: Part II](https://go.osu.edu/met2)
 - [Quality Control for Introductory Statistics and Manufacturing Courses](https://go.osu.edu/qcst)
-
-
-
-<!--## Calculus at The Ohio State University
-
-The calculus sequence at The Ohio State University is being taught
-using free interactive textbooks written in Ximera:
-
-[![Calculus 1](https://ximera.osu.edu/mooculus/logos/calculus1Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus1)
-
-
-[![Calculus 2](https://ximera.osu.edu/mooculus/logos/calculus2Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus2)
-
-
-[![Calculus 3](https://ximera.osu.edu/mooculus/logos/calculus3Logo/logo.png)](https://ximera.osu.edu/mooculus/calculus3)-->
 
 
 
