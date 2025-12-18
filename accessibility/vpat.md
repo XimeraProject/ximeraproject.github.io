@@ -112,7 +112,7 @@ The terms used in this report are defined as follows:
 | **3.2.3 Consistent Navigation** | Supports | Navigation elements are consistent across pages. |
 | **3.2.4 Consistent Identification** | Supports | Controls with the same function are identified consistently. |
 | **3.3.3 Error Suggestion** | Supports | Where applicable, suggestions for correcting errors are provided. |
-| **3.3.4 Error Prevention (Legal, Financial, Data)** | **Supports** | Ximera provides confirmation, revision, and unlimited retry mechanisms for problem submissions. No irreversible legal or financial transactions occur. |
+| **3.3.4 Error Prevention (Legal, Financial, Data)** | Supports | Ximera provides confirmation, revision, and unlimited retry mechanisms for problem submissions. No irreversible legal or financial transactions occur. |
 | **4.1.3 Status Messages (2.1)** | Partially Supports | Some dynamic feedback is available to assistive technologies; improvements are ongoing for real-time math feedback. |
 
 ---
