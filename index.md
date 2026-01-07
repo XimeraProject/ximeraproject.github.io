@@ -1,5 +1,5 @@
 ---
-title: "Mathematics education is a public good and must remain both open and free."
+title: "Ximera"
 layout: splash
 type: page
 parent_id: '0'
