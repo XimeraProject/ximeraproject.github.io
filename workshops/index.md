@@ -21,7 +21,7 @@ something new.
 
 
 **Location:** Ohio State University, Columbus, Ohio  
-**Dates:** May 27-19, 2026  
+**Dates:** May 27-29, 2026  
 **Presentations:** Cockins Hall 240 (CH 240)  
 **Workgroups:** CH 240 and Math Tower 724 (MW 724)
 
