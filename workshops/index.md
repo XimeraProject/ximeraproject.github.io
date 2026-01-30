@@ -57,9 +57,9 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 **Workgroups:** CH 240 and Math Tower 724 (MW 724)
 
 
-    The Ximera Workshop 10 was a hands-on, collaborative event that brought together creators, educators, and developers to improve and expand the Ximera platform. Whether participants were just beginning or had authored full courses, they contributed to shaping the future of interactive online math education.
+The Ximera Workshop 10 was a hands-on, collaborative event that brought together creators, educators, and developers to improve and expand the Ximera platform. Whether participants were just beginning or had authored full courses, they contributed to shaping the future of interactive online math education.
 
-    Mornings were spent learning and discussing major topics, and afternoons were devoted to working together to build content, prototype tools, and draft new resources.
+Mornings were spent learning and discussing major topics, and afternoons were devoted to working together to build content, prototype tools, and draft new resources.
 
 
 ### Daily Schedule of XWX
