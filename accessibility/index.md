@@ -138,7 +138,3 @@ The terms used in this report are defined as follows:
 ### Legal Disclaimer
 
 This document is provided for informational purposes only and does not constitute a warranty of accessibility compliance. Accessibility outcomes may vary depending on content authoring practices, third-party integrations, and user configurations. The Ximera Project continues to improve accessibility as part of its ongoing development roadmap.
-
----
-
-_End of Accessibility Conformance Report_
