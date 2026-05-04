@@ -22,8 +22,8 @@ something new.
 
 **Location:** Ohio State University, Columbus, Ohio  
 **Dates:** May 27-29, 2026  
-**Presentations:** Cockins Hall 240 (CH 240)  
-**Workgroups:** CH 240 and Math Tower 724 (MW 724)
+**Activities:** Math Tower 724 (MW 724)
+
 
 
 
@@ -43,7 +43,6 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - Submit updated LaTeX materials to **CTAN**
 - Begin to develop **LTI 1.3 integration** at OSU and beyond
 - Prototype a new **customizable, accessible server**
-- Draft **Calculus translations** in Portuguese and Spanish
 
 ---
 
