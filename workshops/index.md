@@ -72,7 +72,7 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 #### Friday, May 29
 
 - **9:00-9:30** Arrival  
-- **9:30-10:20** TBA
+- **9:30-10:20** *Ximera in the Classroom* - Sheldon (OSU) and Snapp (OSU)
 - **10:20-10:30** Break  
 - **10:30-11:20** *A Trip Through a Trilogy of Textbooks* - Davis (OSU) and Zachlin (LCC)
 - **11:20-11:30** Break  
