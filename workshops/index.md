@@ -57,14 +57,14 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 #### Thursday, May 28
 
 - **9:00-9:30** Arrival  
-- **9:30-10:20** *Working with GitHub and Overleaf* - Obbels (KU Leuven)
+- **9:30-10:20** *Round up from Day 1* - Snapp (OSU)
 - **10:20-10:30** Break  
 - **10:30-11:20** *Advanced Validators* - Nowell (UF)
 - **11:20-11:30** Break  
 - **11:30-12:20** Working Groups
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** Working Groups  
+- **2:00-3:20** *Working with GitHub and Overleaf* - Obbels (KU Leuven)
 - **3:20-3:30** Break  
 - **3:30-4:30** Wrap-up  
 
