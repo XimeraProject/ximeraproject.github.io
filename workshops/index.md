@@ -17,7 +17,7 @@ something new.
 # Ximera Workshop 11 (5/27/2026-5/29/2026)
 
 
-[**APPLY FOR FUNDING HERE**](https://osu.az1.qualtrics.com/jfe/form/SV_7QXE65ZxXHbeOns)
+<!--[**APPLY FOR FUNDING HERE**](https://osu.az1.qualtrics.com/jfe/form/SV_7QXE65ZxXHbeOns)-->
 
 
 **Location:** Ohio State University, Columbus, Ohio  
@@ -27,7 +27,7 @@ something new.
 
 
 
-[**APPLY FOR FUNDING HERE**](https://osu.az1.qualtrics.com/jfe/form/SV_7QXE65ZxXHbeOns)
+<!--[**APPLY FOR FUNDING HERE**](https://osu.az1.qualtrics.com/jfe/form/SV_7QXE65ZxXHbeOns)-->
 
 
 The Ximera Workshop 11 is a hands-on, collaborative event bringing together creators, educators, and developers to improve and expand the Ximera platform. Whether you're just beginning or have authored full courses, you'll contribute to shaping the future of interactive online math education.
