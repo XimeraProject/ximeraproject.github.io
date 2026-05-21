@@ -64,9 +64,10 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 - **11:30-12:20** Working Groups
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-3:20** *Working with GitHub and Overleaf* - Obbels (KU Leuven)
-- **3:20-3:30** Break  
-- **3:30-4:30** Wrap-up  
+- **2:00-2:50** *Working with GitHub and Overleaf* - Obbels (KU Leuven)
+- **3:00-3:10** Break
+- **3:20-4:00** Working Groups  
+- **4:00-4:30** Wrap-up  
 
 
 #### Friday, May 29
