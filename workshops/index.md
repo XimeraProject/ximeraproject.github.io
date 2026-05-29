@@ -39,16 +39,16 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 #### Wednesday, May 27
 
 - **9:00-9:30** Arrival  
-- **9:30-10:20** *Introduction to Ximera* - Snapp (OSU)
+- **9:30-10:20** [*Introduction to Ximera* - Snapp (OSU)](https://mediasite.osu.edu/Mediasite/Play/80a088361ecc4e4498770d11a8a572791d)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Ximera Server* - Fowler (OSU)
+- **10:30-11:20** [*Ximera Server* - Fowler (OSU)](https://mediasite.osu.edu/Mediasite/Play/bef14842e9cc436786562cd0f5f78a5f1d)
 - **11:20-11:30** Break  
-- **11:30-12:20** *Modulus Demo* - Bouch and Lipsky (Infonomic)
+- **11:30-12:20** [*Modulus Demo* - Snapp (OSU) and Lipsky (Infonomic)](https://mediasite.osu.edu/Mediasite/Play/0280d20b683645d2bd32858861a085851d)
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
 - **2:00-3:20** Working Groups 
 - **3:20-3:30** Break
-- **3:30-4:20** *Accessibility* - Kuan (OSU/BAWL)
+- **3:30-4:20** [*Accessibility* - Kuan (OSU/BAWL)](https://mediasite.osu.edu/Mediasite/Play/55ab444d4189461a8f5149feda20e38e1d)
 - **4:20-4:30** Break  
 - **4:30-5:00** Wrap-up  
 
@@ -57,14 +57,14 @@ We'll spend our mornings learning and discussing major topics, and our afternoon
 #### Thursday, May 28
 
 - **9:00-9:30** Arrival  
-- **9:30-10:20** *Round up from Day 1* - Snapp (OSU)
+- **9:30-10:20** [*Round up from Day 1* - Snapp (OSU)](https://mediasite.osu.edu/Mediasite/Play/0e83d219ab204a7da4f7b6bb4640cb141d)
 - **10:20-10:30** Break  
-- **10:30-11:20** *Advanced Validators* - Nowell (UF)
+- **10:30-11:20** [*Advanced Validators* - Nowell (UF)](https://mediasite.osu.edu/Mediasite/Play/42a78dd025e74873bcd959ea00750eb21d)
 - **11:20-11:30** Break  
 - **11:30-12:20** Working Groups
 - **12:20-12:30** Organize Lunch  
 - **12:30-2:00** Lunch (in groups)
-- **2:00-2:50** *Working with GitHub and Overleaf* - Obbels (KU Leuven)
+- **2:00-2:50** [*Working with GitHub and Overleaf* - Obbels (KU Leuven)](https://mediasite.osu.edu/Mediasite/Play/f46a339b2a124b84aa5c6608788f89171d)
 - **3:00-3:10** Break
 - **3:20-4:00** Working Groups  
 - **4:00-4:30** Wrap-up  
