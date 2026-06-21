@@ -11,7 +11,7 @@ password: ''
 
 Ximera provides free interactive online content. Anyone with an internet connection can
 freely learn and interact with our materials, without even logging in!
-In 2024, over 30,000 students used Ximera in courses, for an estimated savings of $3.5 million dollars. 
+In 2025, over 45,000 students used Ximera in courses, for an estimated savings of $5.4 million dollars. 
 
 
 ## Selected Ximera Activities
